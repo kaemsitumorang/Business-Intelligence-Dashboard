@@ -27,6 +27,7 @@
             margin-right: 6px;
         }
     </style>
+    @yield('style')
 </head>
 <body id="app-layout">
     <nav class="navbar navbar-default navbar-static-top">
@@ -51,7 +52,7 @@
                 <!-- Left Side Of Navbar -->
                 <ul class="nav navbar-nav">
                     <li><a href="{{ url('/home') }}">Home</a></li>
-                    <li><a href="{{ url('/home') }}">Debitur</a></li>
+                    <li><a href="{{ url('/debitur') }}">Debitur</a></li>
                     <li><a href="{{ url('/home') }}">Kreditur</a></li>
                 </ul>
 
