@@ -12,11 +12,13 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('auth.login');
 });
 
 Route::auth();
 
-Route::get('/home', 'HomeController@index');
+Route::get('/home', 'Controller@index');
 Route::get('/debitur', 'Controller@showdebitur');
 Route::post('pages/debitur', 'Controller@storedebitur');
+Route::get('/pages/debitur/{id}','Controller@deletedebitur');
+Route::get('/insert', 'Controller@insertdata');
