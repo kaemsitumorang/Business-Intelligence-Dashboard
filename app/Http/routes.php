@@ -19,6 +19,11 @@ Route::auth();
 
 Route::get('/home', 'Controller@index');
 Route::get('/debitur', 'Controller@showdebitur');
+Route::get('/debitur-new', 'Controller@showdebiturnew');
+// Route::get('/debitur-new/{id}', 'Controller@showdebiturforecast');
+Route::get('/debitur-new/{id}/updateyes', 'Controller@updateapproved');
+Route::get('/debitur-new/{id}/updateno', 'Controller@updateapproved2');
 Route::post('pages/debitur', 'Controller@storedebitur');
 Route::get('/pages/debitur/{id}','Controller@deletedebitur');
+Route::get('/debitur-new/{id}','Controller@forecastdebitur');
 Route::get('/insert', 'Controller@insertdata');

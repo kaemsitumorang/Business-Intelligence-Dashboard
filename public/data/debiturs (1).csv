@@ -1,0 +1,201 @@
+gender,nama,no_ktp,ttl,gaji,tanggungan,kebutuhan,occupation,pinjaman,tanggalpinjam,approved
+Male,Dennis Simpson,7.90324E+15,24-08-77,3273333,1,justo sollicitudin ut suscipit a feugiat,Karyawan Swasta,16186277,04-01-16,y
+Female,Judy Armstrong,3.93398E+15,12-07-75,6476560,5,enim blandit mi in porttitor pede justo eu,Pedagang,90137415,05-01-16,n
+Male,Robert Myers,1.06778E+15,19-08-83,6295582,4,duis consequat dui nec nisi volutpat eleifend donec,Tenaga Medis,26665524,28-01-16,n
+Male,Billy Stewart,4.95809E+15,02-06-97,6218061,3,integer ac neque duis bibendum morbi non quam nec dui,Pedagang,16865135,09-04-16,y
+Male,Howard Armstrong,6.35532E+15,30-12-88,8735199,3,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum,Pedagang,25504733,19-02-16,y
+Female,Mary Medina,9.24343E+15,19-07-96,3538652,5,in leo maecenas pulvinar lobortis,Pedagang,52682802,10-03-16,n
+Female,Jennifer Hunter,6.23403E+15,18-09-89,5931362,1,aliquam convallis nunc proin at turpis a pede posuere nonummy,Pengajar,33209113,12-02-16,y
+Male,Harold Crawford,1.04605E+15,27-10-82,5387125,5,eu nibh quisque id justo sit amet sapien,Mahasiswa,30056343,16-02-16,n
+Female,Margaret Clark,1.72595E+15,27-11-66,8643143,2,leo pellentesque ultrices mattis odio,PNS,21136508,23-02-16,y
+Male,Jose Bradley,1.98507E+15,18-11-83,5953572,4,integer non velit donec diam neque vestibulum eget,Pedagang,75138352,11-04-16,n
+Male,Craig Ross,4.71355E+15,22-06-70,6340464,1,laoreet ut rhoncus aliquet pulvinar,PNS,70766447,21-03-16,n
+Male,Benjamin Jones,3.25155E+15,20-02-90,6056985,4,nonummy integer non velit donec diam neque vestibulum,Freelancer,37527005,25-03-16,n
+Female,Laura Sims,9.04956E+15,07-08-86,5299911,1,congue vivamus metus arcu adipiscing,Mahasiswa,76947576,23-03-16,n
+Female,Jane Kelly,7.01576E+15,19-05-76,4832653,2,at lorem integer tincidunt ante vel ipsum praesent blandit lacinia,Freelancer,57325079,14-01-16,n
+Male,Benjamin Cunningham,1.5515E+15,26-09-76,8628356,4,mauris non ligula pellentesque ultrices,Tenaga Medis,89198901,09-03-16,n
+Female,Barbara Fowler,7.11968E+15,08-01-85,5689007,4,ipsum praesent blandit lacinia erat vestibulum,Freelancer,7359247,18-03-16,y
+Male,Russell Perkins,1.06227E+15,04-08-78,9211772,3,mollis molestie lorem quisque ut,Mahasiswa,25430300,24-01-16,y
+Female,Shirley Ramirez,3.57992E+15,07-01-83,9887809,1,primis in faucibus orci luctus et ultrices posuere cubilia,Pedagang,23711305,20-03-16,y
+Male,Russell Ellis,8.7626E+15,17-05-81,6538558,3,augue a suscipit nulla elit ac,Mahasiswa,26411012,26-01-16,y
+Male,Scott Perry,3.03135E+15,15-08-89,5248311,4,faucibus cursus urna ut tellus nulla,PNS,41636265,09-03-16,n
+Male,Benjamin Ramirez,7.8375E+15,06-07-90,3441361,3,posuere cubilia curae nulla dapibus dolor vel,Karyawan Swasta,90398061,29-04-16,n
+Male,Anthony Lynch,6.67599E+15,06-05-67,4310684,1,ut erat id mauris vulputate elementum nullam varius nulla,Freelancer,14971880,23-01-16,y
+Male,Raymond Martinez,7.51089E+15,01-12-86,4109881,4,justo sit amet sapien dignissim vestibulum,Mahasiswa,92060675,29-03-16,n
+Female,Shirley Harper,8.2644E+15,11-09-72,9133884,1,quam turpis adipiscing lorem vitae mattis,Mahasiswa,94438191,14-01-16,n
+Male,Randy Little,8.95304E+15,27-09-74,7890808,1,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc,PNS,89985719,13-01-16,n
+Female,Alice Alvarez,9.68032E+15,16-04-88,6602973,4,dolor morbi vel lectus in quam,Mahasiswa,78814328,12-02-16,n
+Male,Daniel Foster,8.70702E+15,03-06-90,6109134,3,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis,Freelancer,50549476,17-03-16,n
+Female,Wanda Payne,9.02863E+15,29-11-67,2316855,2,donec dapibus duis at velit eu est congue elementum,PNS,1875311,06-05-16,n
+Male,Chris Williams,7.06601E+15,28-09-67,6272564,5,ut suscipit a feugiat et eros,Mahasiswa,64235082,02-03-16,n
+Male,Joshua Watson,9.99688E+15,16-09-94,6485867,2,euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula,Pedagang,57212804,10-03-16,n
+Female,Virginia Martin,8.14966E+15,11-09-69,9794803,1,odio elementum eu interdum eu tincidunt in leo,Wiraswasta,84608340,16-01-16,y
+Female,Linda Mitchell,3.53748E+15,18-02-85,6352047,2,a feugiat et eros vestibulum ac est,Tenaga Medis,84903923,12-02-16,n
+Male,Harry Morales,1.10914E+15,05-01-97,1915222,3,sapien placerat ante nulla justo aliquam quis turpis eget elit,Pengajar,18985141,17-01-16,n
+Female,Doris Elliott,4.62925E+15,25-02-89,6180074,1,vel dapibus at diam nam,Pedagang,66690610,13-04-16,n
+Male,Aaron Kelley,6.70932E+15,22-12-95,8973909,4,vel augue vestibulum ante ipsum primis,Mahasiswa,72252749,22-01-16,n
+Male,Martin Hunt,3.56157E+15,25-09-76,5442364,3,aenean sit amet justo morbi ut odio cras mi pede,PNS,96820315,12-02-16,n
+Female,Louise Watson,8.77107E+15,19-01-97,6501793,3,ipsum primis in faucibus orci luctus et ultrices posuere cubilia,Tenaga Medis,70730062,25-03-16,n
+Male,Frank Baker,8.42201E+15,07-01-82,9833487,3,ut nunc vestibulum ante ipsum primis,Pedagang,11832086,17-01-16,y
+Female,Nicole Rogers,4.22685E+15,22-09-96,7441782,1,eros viverra eget congue eget semper rutrum nulla nunc purus,Mahasiswa,57813197,13-04-16,y
+Male,Ryan Williamson,5.36871E+15,09-09-67,4416686,3,sit amet eleifend pede libero quis orci,Mahasiswa,98128679,11-03-16,n
+Female,Laura Roberts,8.96279E+15,22-07-72,4251856,2,curabitur convallis duis consequat dui nec nisi,Freelancer,17315200,28-04-16,y
+Female,Dorothy Hart,1.41725E+15,26-09-77,5527134,1,eros elementum pellentesque quisque porta volutpat,Pengajar,77283683,10-01-16,n
+Female,Lois Henderson,7.36235E+15,18-06-97,3090269,3,pede ullamcorper augue a suscipit,Freelancer,45699815,19-03-16,n
+Male,Andrew Howard,6.40009E+15,30-10-71,8919889,4,viverra pede ac diam cras pellentesque volutpat dui maecenas tristique,Freelancer,85472509,07-05-16,n
+Male,Eric Crawford,5.9985E+15,16-02-96,510604,5,amet consectetuer adipiscing elit proin interdum mauris non ligula,PNS,61515490,13-02-16,n
+Female,Andrea Martin,8.44954E+15,29-10-92,4487007,2,mattis odio donec vitae nisi nam,PNS,78264493,03-01-16,n
+Female,Mary Stewart,7.90385E+15,15-09-79,7370867,5,bibendum imperdiet nullam orci pede venenatis non sodales,Pengajar,65126857,03-04-16,n
+Female,Pamela Burton,9.32566E+15,08-01-97,5833925,2,rhoncus dui vel sem sed,Pedagang,57030356,09-02-16,n
+Male,Carl Ryan,8.11479E+15,02-05-89,9699682,4,dapibus at diam nam tristique tortor,PNS,42373688,12-04-16,y
+Female,Carolyn Nguyen,8.35869E+15,30-12-93,5065251,2,fusce congue diam id ornare imperdiet sapien urna pretium,Mahasiswa,88712643,12-02-16,n
+Female,Kathryn Gordon,5.53995E+15,19-11-89,1997499,1,interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus,Wiraswasta,92306044,20-03-16,n
+Female,Shirley Robertson,6.73115E+15,01-07-90,5423238,2,rutrum at lorem integer tincidunt ante vel ipsum praesent,Tenaga Medis,38251492,14-01-16,n
+Female,Nicole Dixon,9.79556E+15,28-04-82,874525,2,convallis morbi odio odio elementum eu interdum,Pengajar,71080998,10-04-16,n
+Female,Amanda Hanson,8.28743E+15,16-08-87,7361169,4,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis,Karyawan Swasta,14266124,11-04-16,y
+Female,Lois Mason,5.74527E+15,08-12-70,5971365,1,in faucibus orci luctus et,Pengajar,77721469,25-04-16,n
+Female,Nicole Diaz,7.41148E+15,02-11-93,2309061,4,at vulputate vitae nisl aenean lectus pellentesque eget nunc,Tenaga Medis,28350156,12-01-16,n
+Male,Victor Clark,4.21628E+15,10-10-92,3394051,5,donec quis orci eget orci vehicula condimentum curabitur in,PNS,40309067,15-03-16,n
+Male,James Clark,4.05296E+15,07-07-97,1886479,4,ante vivamus tortor duis mattis egestas,Freelancer,13095275,16-02-16,n
+Male,Douglas Matthews,5.26687E+15,02-07-94,1549708,1,at nibh in hac habitasse platea dictumst aliquam augue,Freelancer,41880746,04-02-16,n
+Female,Amanda Hall,5.69458E+15,14-08-87,1773524,2,in est risus auctor sed tristique in tempus sit,PNS,91376697,22-02-16,n
+Male,James Butler,6.20182E+15,14-03-88,1236790,3,pretium nisl ut volutpat sapien arcu sed augue aliquam,Pengajar,52100951,14-02-16,n
+Male,Jesse Andrews,7.11875E+15,17-09-69,7003204,4,viverra eget congue eget semper,Pedagang,18605160,21-02-16,y
+Female,Andrea Burke,5.36687E+15,18-09-77,8612240,5,praesent id massa id nisl venenatis lacinia aenean,Tenaga Medis,49764547,07-01-16,n
+Male,James Rose,4.28472E+15,06-12-79,8825976,3,tortor duis mattis egestas metus aenean fermentum donec ut,Tenaga Medis,51995837,26-01-16,y
+Male,Roy Willis,3.09501E+15,25-07-86,3247079,4,sapien quis libero nullam sit amet turpis,Pengajar,3223507,25-04-16,n
+Male,Joe Wilson,1.79009E+15,25-07-77,8935347,4,ridiculus mus etiam vel augue vestibulum,Pengajar,96684738,27-04-16,n
+Female,Jennifer Moreno,2.87865E+15,15-09-90,754886,4,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent,Karyawan Swasta,4418492,08-02-16,n
+Female,Theresa Sanchez,9.18229E+15,29-05-74,1554847,3,in hac habitasse platea dictumst etiam faucibus cursus,Wiraswasta,37212418,26-03-16,n
+Male,Antonio Hughes,6.88953E+15,03-08-83,3964982,4,blandit non interdum in ante vestibulum ante ipsum primis,Mahasiswa,93478780,01-02-16,n
+Male,Richard Little,2.1698E+15,15-09-72,4038111,4,proin risus praesent lectus vestibulum quam sapien,Wiraswasta,36780470,11-02-16,n
+Male,Keith Cook,6.99857E+15,19-07-91,585984,5,nibh in lectus pellentesque at nulla suspendisse potenti cras,Pedagang,84169676,18-02-16,n
+Female,Cheryl Martin,4.95818E+15,27-09-90,4834925,4,convallis nunc proin at turpis a pede posuere,Karyawan Swasta,21174640,18-04-16,n
+Female,Annie Ferguson,2.89761E+15,06-06-80,4662731,5,in ante vestibulum ante ipsum primis,Karyawan Swasta,9067565,25-04-16,n
+Male,Jerry Castillo,8.72634E+15,17-09-69,4395563,4,nisi nam ultrices libero non mattis pulvinar nulla pede,Karyawan Swasta,55929939,16-03-16,n
+Male,Dennis Rogers,4.61685E+15,12-10-92,4161381,5,quisque erat eros viverra eget congue eget semper rutrum nulla,Wiraswasta,67123567,05-02-16,n
+Female,Ruby Bennett,8.16966E+15,24-08-78,4362134,4,eu felis fusce posuere felis sed lacus morbi sem mauris,PNS,78857113,31-01-16,n
+Female,Rebecca Snyder,7.33925E+15,22-10-96,595600,4,pretium iaculis diam erat fermentum justo nec condimentum neque sapien,Pedagang,26383623,25-02-16,n
+Male,Victor Castillo,8.44618E+15,19-10-90,4970656,1,pulvinar sed nisl nunc rhoncus,Pengajar,83247045,23-03-16,n
+Female,Paula George,9.5546E+15,10-05-90,4662578,4,ante vivamus tortor duis mattis egestas metus aenean fermentum donec,Tenaga Medis,60834123,15-01-16,n
+Male,Wayne Williams,8.20737E+15,06-04-89,9988048,2,risus dapibus augue vel accumsan,Pengajar,83560094,19-04-16,y
+Female,Marilyn Stevens,7.41361E+15,24-11-90,4412252,5,felis sed interdum venenatis turpis enim blandit mi in,PNS,86193913,15-03-16,n
+Female,Denise Hanson,6.90656E+15,12-03-92,1090905,1,quam sollicitudin vitae consectetuer eget rutrum at lorem,Pengajar,85848554,17-03-16,n
+Male,Antonio Stanley,4.04658E+15,20-02-77,2034033,1,habitasse platea dictumst morbi vestibulum velit id pretium,Mahasiswa,43727730,27-01-16,n
+Female,Sara Taylor,5.90643E+15,25-10-72,7337949,2,vulputate elementum nullam varius nulla facilisi cras,Freelancer,71436563,26-02-16,n
+Male,Alan Fuller,3.64286E+15,28-08-87,9792041,2,rutrum nulla tellus in sagittis dui,Pengajar,66714596,03-04-16,y
+Male,Douglas Spencer,5.94227E+15,05-10-81,5571101,5,vestibulum eget vulputate ut ultrices vel augue,PNS,85255601,08-01-16,n
+Female,Betty Burns,4.09214E+15,24-12-69,520833,3,lorem id ligula suspendisse ornare consequat lectus in est risus,PNS,20997754,12-03-16,n
+Female,Kathryn Hall,6.06962E+15,17-03-79,4461496,2,erat fermentum justo nec condimentum,Wiraswasta,71800550,04-03-16,n
+Female,Jane Ruiz,4.24875E+15,19-10-70,9815089,3,sapien cum sociis natoque penatibus et magnis dis parturient,Pengajar,15794680,26-02-16,y
+Female,Karen Howell,7.86989E+15,06-12-88,6929888,4,quis orci nullam molestie nibh in lectus pellentesque,Freelancer,53814828,17-01-16,n
+Female,Kelly Cook,1.20636E+15,05-01-67,1375602,1,vulputate elementum nullam varius nulla,Pedagang,87756665,20-01-16,n
+Female,Deborah Wood,3.81875E+15,04-04-68,9526115,1,potenti in eleifend quam a odio in,Pedagang,55023925,18-03-16,y
+Male,Sean Gutierrez,3.27063E+15,23-08-91,3111650,1,justo sit amet sapien dignissim vestibulum vestibulum ante,Pengajar,62006645,29-03-16,n
+Female,Robin Cruz,2.75028E+15,28-02-77,4033144,1,luctus et ultrices posuere cubilia curae,PNS,19488789,12-03-16,y
+Male,Roy Grant,1.614E+15,06-02-68,5740628,3,mattis nibh ligula nec sem duis aliquam convallis nunc,Tenaga Medis,21491980,22-01-16,y
+Female,Virginia West,3.71163E+15,09-08-76,5423535,2,sapien varius ut blandit non interdum in,Tenaga Medis,24877178,30-01-16,y
+Female,Kelly Moreno,4.00858E+15,21-03-75,8053904,1,ac consequat metus sapien ut,Pengajar,83145491,05-04-16,n
+Male,Donald Knight,4.3707E+15,13-12-91,8905647,5,diam erat fermentum justo nec condimentum neque,PNS,81309849,06-03-16,n
+Female,Carolyn Kelly,2.49563E+15,26-03-75,8180869,3,consequat nulla nisl nunc nisl duis,Freelancer,30823492,16-02-16,y
+Female,Anne Payne,4.70511E+15,26-07-74,5794458,5,orci mauris lacinia sapien quis libero nullam,Tenaga Medis,65335741,23-02-16,n
+Male,Mark Henderson,4.97837E+15,28-05-78,2752521,1,sit amet nulla quisque arcu,Wiraswasta,71470674,04-02-16,n
+Female,Sandra Perry,7.60052E+15,17-12-96,5388210,4,in blandit ultrices enim lorem ipsum,Pedagang,63685237,29-03-16,n
+Male,Michael Austin,1.76877E+15,18-09-81,3926822,5,sapien a libero nam dui proin leo odio,Wiraswasta,9748946,30-01-16,n
+Female,Lori Hanson,9.06634E+15,28-07-75,6045524,1,ante vivamus tortor duis mattis,Pedagang,43147836,13-03-16,y
+Female,Helen Roberts,8.80997E+15,29-10-72,9991253,5,id mauris vulputate elementum nullam varius nulla facilisi cras,Pengajar,45723759,23-02-16,y
+Female,Deborah Collins,7.69686E+15,21-01-71,3244663,1,primis in faucibus orci luctus,Pengajar,92026447,13-01-16,n
+Female,Carol George,6.48981E+15,01-06-87,724781,5,etiam vel augue vestibulum rutrum,PNS,88147157,08-03-16,n
+Male,Joe Snyder,1.9358E+15,12-09-72,4718592,3,turpis donec posuere metus vitae ipsum aliquam,Mahasiswa,71354667,01-02-16,n
+Male,Brian Martinez,1.38967E+15,25-12-90,9299392,2,enim lorem ipsum dolor sit amet consectetuer,Freelancer,61402749,25-02-16,y
+Male,Eugene Fowler,9.19723E+15,04-12-70,7975363,5,ultrices posuere cubilia curae duis faucibus accumsan odio,Wiraswasta,96103051,15-04-16,n
+Male,Timothy Hayes,1.24268E+15,02-09-93,3704932,3,natoque penatibus et magnis dis,Pengajar,39283645,24-04-16,n
+Male,Jack Flores,5.95104E+15,02-08-84,7715387,1,convallis nulla neque libero convallis eget eleifend luctus,Pedagang,84649584,04-01-16,n
+Male,Jose Greene,3.41308E+15,06-12-82,9831740,5,nec dui luctus rutrum nulla tellus in sagittis dui,PNS,54936381,28-04-16,n
+Male,Terry Woods,6.65888E+15,09-11-73,1392046,2,morbi a ipsum integer a,Wiraswasta,35755529,25-01-16,n
+Female,Louise Oliver,3.36618E+15,30-11-76,2191167,4,non quam nec dui luctus rutrum nulla tellus in sagittis,PNS,8806060,16-02-16,n
+Female,Susan Rodriguez,1.06556E+15,29-01-72,5854121,3,aliquam augue quam sollicitudin vitae consectetuer eget,Pedagang,70453674,15-02-16,n
+Female,Frances Stanley,1.09873E+15,20-04-71,7139228,3,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi,Wiraswasta,94475834,30-03-16,n
+Female,Carol Hunt,9.61569E+15,03-02-90,4627665,2,non mi integer ac neque duis,Pengajar,85472938,17-03-16,n
+Male,Harry Collins,9.03231E+15,20-07-85,924642,3,imperdiet nullam orci pede venenatis non sodales sed,Pengajar,58462522,11-02-16,n
+Male,Roger Woods,3.09661E+15,29-06-96,1177445,2,in sapien iaculis congue vivamus,Pedagang,22184727,07-04-16,n
+Male,Victor Bradley,7.71774E+15,31-07-96,9339389,1,neque aenean auctor gravida sem praesent id,PNS,89761665,06-04-16,n
+Male,Christopher Moore,4.99503E+15,06-09-74,985925,5,aliquam convallis nunc proin at turpis a pede posuere nonummy,Mahasiswa,9505128,13-02-16,n
+Male,Arthur Coleman,6.37213E+15,14-09-87,2085328,1,cum sociis natoque penatibus et magnis,Mahasiswa,51896588,25-02-16,n
+Male,Clarence Gilbert,9.79751E+15,02-11-79,8277908,5,justo in hac habitasse platea,Pedagang,60523286,02-03-16,n
+Male,Arthur Owens,9.90456E+15,22-04-86,3491130,5,ante ipsum primis in faucibus orci luctus,Pedagang,70064824,06-02-16,n
+Female,Melissa Cox,3.42276E+15,22-12-68,7887928,3,accumsan felis ut at dolor,Tenaga Medis,18996050,16-02-16,y
+Female,Tammy Washington,2.98985E+15,04-02-77,1276739,4,turpis sed ante vivamus tortor duis mattis egestas metus aenean,Freelancer,90259173,14-01-16,n
+Male,Martin Riley,2.90419E+15,27-02-82,6993257,2,sit amet lobortis sapien sapien non mi integer ac neque,Mahasiswa,65966922,28-02-16,n
+Female,Evelyn Lawrence,6.5551E+15,06-11-87,2700242,4,nec nisi volutpat eleifend donec ut dolor,Tenaga Medis,21018684,31-01-16,n
+Male,Joshua Stone,3.83738E+15,28-11-67,9357560,4,ante vestibulum ante ipsum primis in faucibus,Freelancer,75340327,15-02-16,n
+Male,Thomas Long,3.22273E+15,22-04-83,3738355,2,aenean sit amet justo morbi ut odio,Karyawan Swasta,55044727,22-04-16,n
+Female,Ruth Sims,7.55406E+15,02-09-71,5939541,2,tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum,Pedagang,79549134,26-04-16,n
+Male,Benjamin Jacobs,9.82003E+15,27-11-84,7191910,5,erat fermentum justo nec condimentum neque sapien placerat ante,Mahasiswa,50763381,02-04-16,n
+Female,Rachel Snyder,9.48586E+15,04-02-82,1066102,2,amet diam in magna bibendum imperdiet,Karyawan Swasta,76451999,22-03-16,n
+Male,Timothy James,2.55139E+15,30-06-79,3952405,5,massa id lobortis convallis tortor risus dapibus augue vel accumsan,Pedagang,29315900,10-03-16,n
+Male,Terry Davis,7.27283E+15,24-06-70,8051581,2,ac nibh fusce lacus purus aliquet at feugiat,Pedagang,35233091,22-02-16,y
+Male,Louis Bennett,8.35632E+15,18-07-74,7389168,5,in faucibus orci luctus et ultrices,Pengajar,10765887,01-02-16,y
+Male,Ernest Little,2.70811E+15,22-04-84,1312594,3,risus praesent lectus vestibulum quam sapien varius ut,Pengajar,20136062,09-03-16,n
+Female,Catherine Black,7.68217E+15,07-12-86,3116925,2,est donec odio justo sollicitudin ut suscipit a feugiat,Pedagang,96476101,03-03-16,n
+Male,Walter Johnson,7.48187E+15,15-08-97,786824,3,dui proin leo odio porttitor id consequat in,Mahasiswa,55440332,13-03-16,n
+Female,Theresa Ross,9.09279E+15,25-07-96,838735,4,odio condimentum id luctus nec molestie sed,Tenaga Medis,89160052,20-01-16,n
+Female,Marie Richards,1.425E+15,08-09-90,4111647,2,nibh ligula nec sem duis aliquam convallis nunc,Tenaga Medis,26484444,15-03-16,n
+Male,Albert Lawson,1.79348E+15,12-01-76,1705026,3,elit proin risus praesent lectus vestibulum,Pedagang,85612281,30-04-16,n
+Male,Edward Rogers,2.37106E+15,31-03-91,2814203,5,purus phasellus in felis donec semper sapien a,Freelancer,28327777,11-04-16,n
+Male,Ronald Ruiz,7.99947E+15,17-04-95,9051227,5,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum,Mahasiswa,14211251,29-02-16,y
+Female,Dorothy Sanchez,8.13697E+15,12-03-97,8447163,2,sapien urna pretium nisl ut volutpat sapien arcu sed augue,Mahasiswa,7332947,29-04-16,y
+Male,Ronald Flores,8.21994E+15,22-01-76,3126167,4,ut volutpat sapien arcu sed augue,Mahasiswa,57671495,08-01-16,n
+Male,Justin Shaw,4.59842E+15,27-10-79,8092488,1,integer ac leo pellentesque ultrices,Karyawan Swasta,34871634,06-03-16,y
+Female,Jessica Gonzalez,9.28001E+15,30-03-90,2262194,3,sit amet cursus id turpis integer aliquet massa id lobortis,Tenaga Medis,77371304,02-04-16,n
+Male,Jeremy Baker,5.40638E+15,06-06-80,2144473,2,erat curabitur gravida nisi at nibh,Freelancer,4865636,28-01-16,n
+Female,Ashley Rice,2.05256E+15,02-02-91,1747721,4,augue aliquam erat volutpat in congue etiam justo,Freelancer,41618320,17-03-16,n
+Female,Nicole Dunn,7.91865E+15,27-05-91,7793929,2,egestas metus aenean fermentum donec ut mauris eget,Mahasiswa,28217830,24-03-16,y
+Female,Tina Gardner,1.52874E+15,09-09-89,7492424,3,aliquam sit amet diam in magna bibendum imperdiet nullam,PNS,53905975,24-01-16,n
+Female,Martha Kennedy,7.90703E+15,07-08-95,4286145,2,in faucibus orci luctus et ultrices posuere,Tenaga Medis,18415752,23-01-16,n
+Female,Mildred Hamilton,5.76433E+15,17-06-76,2234309,3,tellus nisi eu orci mauris lacinia,Tenaga Medis,61617928,14-04-16,n
+Female,Teresa Boyd,2.733E+15,13-10-95,1048294,1,ligula suspendisse ornare consequat lectus in est,Pedagang,18238318,20-01-16,n
+Male,Ronald Garcia,5.02028E+15,14-04-82,4935827,5,felis fusce posuere felis sed,Pedagang,85015082,07-01-16,n
+Female,Diane Bowman,6.41613E+15,13-04-87,6251482,5,sed accumsan felis ut at dolor quis odio consequat varius,Tenaga Medis,46673278,13-02-16,n
+Female,Laura Lane,4.02097E+15,25-10-78,5988260,1,magna ac consequat metus sapien ut nunc,Pengajar,96391574,03-01-16,n
+Female,Barbara Daniels,2.94589E+15,12-11-85,3362806,5,sed tristique in tempus sit,Pedagang,36834925,12-04-16,n
+Male,Carl Roberts,7.80224E+15,25-10-85,2106730,3,in tempor turpis nec euismod scelerisque quam turpis adipiscing,Tenaga Medis,86414574,27-03-16,n
+Male,Thomas Reed,2.33152E+15,20-02-96,7809806,2,nisl venenatis lacinia aenean sit amet justo morbi,Mahasiswa,31936504,26-01-16,y
+Female,Kimberly Lawrence,9.07779E+15,16-07-91,5079536,1,sed ante vivamus tortor duis mattis egestas metus aenean,Freelancer,66691246,12-01-16,n
+Female,Rose Johnson,8.53005E+15,08-04-73,8414075,3,sem praesent id massa id nisl venenatis lacinia aenean,PNS,83806038,29-01-16,n
+Female,Ashley Parker,9.892E+15,20-11-70,1623136,1,vulputate ut ultrices vel augue vestibulum ante,Mahasiswa,96387646,08-05-16,n
+Male,Dennis Daniels,3.18659E+15,22-02-85,2408606,2,dolor sit amet consectetuer adipiscing elit proin interdum,Wiraswasta,25800021,16-01-16,n
+Male,Joseph Dunn,2.84904E+15,12-04-83,6934042,3,nunc donec quis orci eget orci vehicula condimentum curabitur,Wiraswasta,42760580,05-02-16,n
+Female,Ashley Reyes,6.38681E+15,21-09-92,7861054,3,donec posuere metus vitae ipsum aliquam non mauris,PNS,72517173,30-01-16,n
+Male,George Moreno,8.42415E+15,06-06-73,2972669,4,lectus pellentesque at nulla suspendisse potenti cras in,PNS,31861680,29-03-16,n
+Male,Joe Ray,8.81264E+15,10-10-92,7908968,1,id consequat in consequat ut nulla sed,Freelancer,27589464,30-01-16,y
+Female,Kelly Reynolds,4.21574E+15,09-08-94,8450739,5,ultrices posuere cubilia curae nulla dapibus dolor vel est donec,Freelancer,59225718,24-03-16,n
+Female,Judy Adams,5.73053E+15,22-09-78,5057752,4,faucibus orci luctus et ultrices posuere cubilia,Pedagang,77329060,01-02-16,n
+Male,Juan Richardson,3.1872E+15,09-06-96,4501364,4,porta volutpat erat quisque erat eros,Karyawan Swasta,98113417,16-02-16,n
+Male,Gerald Howard,5.95597E+15,20-06-85,1387800,4,in est risus auctor sed,Wiraswasta,3439409,24-03-16,n
+Male,Willie Coleman,6.14829E+15,29-06-71,5672542,1,in lectus pellentesque at nulla suspendisse potenti,Karyawan Swasta,80239486,03-02-16,n
+Male,Joe Rogers,3.76897E+15,28-08-94,1831488,1,molestie nibh in lectus pellentesque at nulla suspendisse,Pedagang,11118172,30-01-16,n
+Female,Karen Moreno,7.81684E+15,27-12-75,5092632,5,nullam orci pede venenatis non sodales sed,Freelancer,86107609,08-02-16,n
+Female,Diane Jenkins,1.34794E+15,07-03-78,8460358,1,semper sapien a libero nam,Freelancer,48212393,06-05-16,y
+Male,Jose Morales,7.50606E+15,21-05-80,1832904,4,cras pellentesque volutpat dui maecenas,Pedagang,28711230,23-04-16,n
+Male,William Wright,6.55514E+15,13-08-90,1064061,5,vulputate ut ultrices vel augue vestibulum ante ipsum,Pengajar,67643476,22-04-16,n
+Male,Juan Harrison,9.15194E+15,14-07-87,6826309,1,ipsum primis in faucibus orci luctus,Karyawan Swasta,78237284,01-01-16,n
+Female,Barbara Fuller,6.75589E+15,26-12-73,628006,2,magnis dis parturient montes nascetur ridiculus mus,Freelancer,32962240,31-03-16,n
+Female,Nicole Patterson,8.95491E+15,17-02-72,7904167,1,vel ipsum praesent blandit lacinia erat,Karyawan Swasta,97456182,23-01-16,n
+Female,Virginia Hayes,7.77361E+15,25-06-82,8360233,4,curabitur convallis duis consequat dui nec nisi volutpat eleifend,Karyawan Swasta,55819269,26-01-16,n
+Female,Kathleen Hayes,4.42531E+15,11-08-85,7509740,2,libero quis orci nullam molestie nibh in lectus,Pedagang,71395128,11-02-16,n
+Female,Joan Baker,1.43891E+15,28-05-77,2515551,2,ut mauris eget massa tempor convallis nulla neque libero,Wiraswasta,3315161,28-02-16,n
+Female,Sharon Gray,8.93664E+15,26-12-77,7485388,2,magnis dis parturient montes nascetur ridiculus mus etiam,Pedagang,6581642,28-02-16,y
+Female,Helen Palmer,1.38628E+15,15-01-87,6661395,3,est lacinia nisi venenatis tristique fusce congue diam,Pedagang,43519071,02-03-16,n
+Male,Jeffrey Greene,4.69416E+15,20-08-70,9590292,2,sed tristique in tempus sit amet sem fusce,Tenaga Medis,63496299,13-04-16,y
+Male,Douglas Reynolds,1.31656E+15,28-05-90,665639,2,justo in blandit ultrices enim lorem ipsum dolor sit,Karyawan Swasta,63325971,20-02-16,n
+Male,Benjamin Peters,1.61858E+15,21-10-67,2569362,1,morbi quis tortor id nulla ultrices aliquet maecenas,PNS,47595946,13-04-16,n
+Female,Virginia Jenkins,6.84024E+15,30-11-87,4731455,3,felis sed lacus morbi sem mauris laoreet,PNS,95644108,15-01-16,n
+Male,George Weaver,1.89077E+15,07-10-97,3062188,5,nisl duis bibendum felis sed interdum venenatis turpis enim blandit,Freelancer,81821153,01-05-16,n
+Male,David Peters,1.74698E+15,07-08-66,8582909,1,orci pede venenatis non sodales sed tincidunt eu felis,Karyawan Swasta,2875837,02-03-16,y
+Male,Paul Hunter,3.40074E+15,22-09-76,5199607,1,amet lobortis sapien sapien non,PNS,13727069,01-04-16,y
+Female,Rose Ward,9.9406E+15,29-01-92,5526951,3,vitae consectetuer eget rutrum at lorem,Tenaga Medis,37050027,10-02-16,n
+Female,Linda Williamson,3.25006E+15,29-12-84,1759803,1,mauris laoreet ut rhoncus aliquet,Tenaga Medis,29388757,24-03-16,n
+Female,Lois Evans,1.48685E+15,13-08-78,5621780,3,massa id nisl venenatis lacinia aenean,PNS,56416022,08-03-16,n
+Female,Maria Nguyen,9.88132E+15,17-10-71,2681809,2,nulla dapibus dolor vel est donec odio justo sollicitudin,Pengajar,94424431,29-02-16,n
+Male,Paul Garrett,3.38707E+15,21-07-73,7276335,2,duis faucibus accumsan odio curabitur convallis,Karyawan Swasta,67711744,26-01-16,n

@@ -6,6 +6,7 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'AddApproved' => $baseDir . '/database/migrations/2016_05_12_062241_add_approved.php',
     'AddGenderoccupation' => $baseDir . '/database/migrations/2016_05_11_104122_add_genderoccupation.php',
     'AddPinjaman' => $baseDir . '/database/migrations/2016_05_11_105900_add_pinjaman.php',
     'AddTanggal' => $baseDir . '/database/migrations/2016_05_11_131141_add_tanggal.php',

@@ -16,13 +16,13 @@ margin-left: 1em;
 <div class="containers">
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
-            <!-- <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+            <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
             Add New Debitur
             </button>
-            <a href="{{action('Controller@insertdata')}}" class="btn">
+            <!-- <a href="{{action('Controller@insertdata')}}" class="btn">
                 <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
             </a> -->
-            <!-- <div class="collapse" id="collapseExample">
+            <div class="collapse" id="collapseExample">
                 <div class="well">
                     {!! Form::open(['url' => 'pages/debitur']) !!}
                     <div class="form-group">
@@ -84,7 +84,7 @@ margin-left: 1em;
                     <button class="waves-effect waves-light btn pink darken-4">SUBMIT</button>
                     {!! Form::close() !!}
                 </div>
-            </div> -->
+            </div>
             <div class="panel panel-default">
                 <div class="panel-heading">Daftar Debitur</div>
                 <div class="panel-body">
@@ -94,7 +94,7 @@ margin-left: 1em;
                                 <th>#</th>
                                 <th>Nama</th>
                                 <th>Gaji</th>
-                                <th>Status</th>
+                                <th>Tanggungan</th>
                                 <th>Kebutuhan</th>
                                 <th></th>
                             </tr>
@@ -105,7 +105,7 @@ margin-left: 1em;
                                 <th>{{$debiturr->id_debitur}}</th>
                                 <th>{{$debiturr->nama}}</th>
                                 <th>Rp {{number_format($debiturr->gaji)}}</th>
-                                <th>{{$debiturr->approved}}</th>
+                                <th>{{$debiturr->tanggungan}}</th>
                                 <th>{{$debiturr->kebutuhan}}</th>
                                 <th>
                                     <!-- Button trigger modal -->
@@ -113,9 +113,12 @@ margin-left: 1em;
                                         <a type="button" class="btn" data-toggle="modal" data-target="#info{{$debiturr->id}}">
                                             <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span>
                                         </a>
-                                        <!-- <a href="{{action('Controller@deletedebitur', $debiturr->id)}}" class="btn">
+                                        <a href="{{action('Controller@deletedebitur', $debiturr->id)}}" class="btn">
                                             <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
-                                        </a> -->
+                                        </a>
+                                        <a href="{{action('Controller@forecastdebitur', $debiturr->id)}}" class="btn">
+                                            <span aria-hidden="true">forecast</span>
+                                        </a>
                                     </div>
                                     <!-- Modal -->
                                     <div class="modal fade" id="info{{$debiturr->id}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">

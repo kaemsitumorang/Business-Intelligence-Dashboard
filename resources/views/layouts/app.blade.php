@@ -26,6 +26,14 @@
         .fa-btn {
             margin-right: 6px;
         }
+        .divider {
+          height: 1px;
+          width:100%;
+          display:block; /* for use on default inline elements like span */
+          margin: 9px 0;
+          overflow: hidden;
+          background-color: #e5e5e5;
+        }
     </style>
     @yield('style')
 </head>
@@ -53,7 +61,7 @@
                 <ul class="nav navbar-nav">
                     <li><a href="{{ url('/home') }}">Home</a></li>
                     <li><a href="{{ url('/debitur') }}">Debitur</a></li>
-                    <li><a href="{{ url('/home') }}">Kreditur</a></li>
+                    <li><a href="{{ url('/debitur-new') }}">New Debitur</a></li>
                 </ul>
 
                 <!-- Right Side Of Navbar -->
