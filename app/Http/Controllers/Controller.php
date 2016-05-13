@@ -20,6 +20,8 @@ class Controller extends BaseController
 
     public function index(){
         $debitur = DB::table('debiturs')->join('kredits', 'debiturs.id', '=', 'kredits.id_debitur' )->get();
+        $debiturDiterima = DB::table('debiturs')->join('kredits', 'debiturs.id', '=', 'kredits.id_debitur' )->where('approved', '=', "y")->get();
+        $debiturDitolak = DB::table('debiturs')->join('kredits', 'debiturs.id', '=', 'kredits.id_debitur' )->where('approved', '=', "n")->get();
         $totalTransaction = DB::table('kredits')->count();
         $thisMonth = date('m');
         $thisMonthString = date('M');
@@ -45,7 +47,7 @@ class Controller extends BaseController
         $transactionMayNo=DB::table("kredits")->whereMonth('tanggalpinjam', '=', "05")->where('approved', '=', "n")->count();
 
 
-        return view('home', compact('debitur', 'totalTransaction', 'transactionThisMonth', 'thisMonthString', 'transactionJanuary', 'transactionFebruary', 'transactionMarch', 'transactionApril', 'transactionMay', 'transactionJanuaryNo', 'transactionJanuaryYes', 'transactionFebruaryYes', 'transactionFebruaryNo', 'transactionMarchYes', 'transactionMarchNo', 'transactionAprilYes', 'transactionAprilNo', 'transactionMayYes', 'transactionMayNo', 'transactionPending'));
+        return view('home', compact('debitur', 'debiturDiterima', 'debiturDitolak', 'totalTransaction', 'transactionThisMonth', 'thisMonthString', 'transactionJanuary', 'transactionFebruary', 'transactionMarch', 'transactionApril', 'transactionMay', 'transactionJanuaryNo', 'transactionJanuaryYes', 'transactionFebruaryYes', 'transactionFebruaryNo', 'transactionMarchYes', 'transactionMarchNo', 'transactionAprilYes', 'transactionAprilNo', 'transactionMayYes', 'transactionMayNo', 'transactionPending'));
     }
     public function showdebitur(){
     	$debitur = DB::table('debiturs')->join('kredits', 'debiturs.id', '=', 'kredits.id_debitur' )->orderBy('debiturs.created_at', 'desc')->paginate(20);

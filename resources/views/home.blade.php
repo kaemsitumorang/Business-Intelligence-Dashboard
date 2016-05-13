@@ -50,7 +50,15 @@
       <div class="col-md-6">
         <div id="line_top_x" style="height: 500px;"></div>
       </div>
-    </div>
+  </div>
+  <div class="row" id="chart">
+      <div class="col-md-6">
+          <div id="scatterchart_material2" style="height: 500px;"></div>
+      </div>
+      <div class="col-md-6">
+        <div id="scatterchart_material3" style="height: 500px;"></div>
+      </div>
+  </div>
 </div>
 @endsection
 @section('script')
@@ -60,6 +68,8 @@
       google.charts.setOnLoadCallback(drawChart);
       google.charts.setOnLoadCallback(drawChart2);
       google.charts.setOnLoadCallback(drawChart3);
+      google.charts.setOnLoadCallback(drawChart4);
+      google.charts.setOnLoadCallback(drawChart5);
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
           ['Bulan', 'Request', 'Approved', 'Rejected'],
@@ -100,7 +110,8 @@
             subtitle: 'Scatter Plot'
           },
           hAxis: {title: 'Gaji'},
-          vAxis: {title: 'Pinjaman'}
+          vAxis: {title: 'Pinjaman'},
+          colors: ['#fdd835']
         };
 
         var chart = new google.charts.Scatter(document.getElementById('scatterchart_material'));
@@ -139,5 +150,56 @@
 
       chart.draw(data, options);
     }
+    function drawChart4 () {
+
+        var data = new google.visualization.DataTable();
+        data.addColumn('number', 'Gaji');
+        data.addColumn('number', 'Pinjaman');
+
+        data.addRows([
+          @foreach($debiturDiterima as $debiturs)
+          [{{$debiturs->gaji}},{{$debiturs->pinjaman}}],
+          @endforeach
+        ]);
+
+        var options = {
+          chart: {
+            title: 'Pinjaman Diterima',
+            subtitle: 'Persebaran Gaji Beserta Pinjaman'
+          },
+          hAxis: {title: 'Gaji'},
+          vAxis: {title: 'Pinjaman'}
+        };
+
+        var chart = new google.charts.Scatter(document.getElementById('scatterchart_material2'));
+
+        chart.draw(data, google.charts.Scatter.convertOptions(options));
+      }
+      function drawChart5 () {
+
+        var data = new google.visualization.DataTable();
+        data.addColumn('number', 'Gaji');
+        data.addColumn('number', 'Pinjaman');
+
+        data.addRows([
+          @foreach($debiturDitolak as $debiturs)
+          [{{$debiturs->gaji}},{{$debiturs->pinjaman}}],
+          @endforeach
+        ]);
+
+        var options = {
+          chart: {
+            title: 'Pinjaman Ditolak',
+            subtitle: 'Persebaran Gaji Beserta Pinjaman'
+          },
+          hAxis: {title: 'Gaji'},
+          vAxis: {title: 'Pinjaman'},
+          colors: ['#ad1457']
+        };
+
+        var chart = new google.charts.Scatter(document.getElementById('scatterchart_material3'));
+
+        chart.draw(data, google.charts.Scatter.convertOptions(options));
+      }
     </script>
 @endsection
