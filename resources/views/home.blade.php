@@ -3,7 +3,7 @@
 <style type="text/css">
   #chart{
     margin-top: 2em;
-    margin-bottom: 2em;
+    margin-bottom: 4em;
   }
 </style>
 @endsection
@@ -41,8 +41,8 @@
   </div>
   <div class="row" id="chart">
       <div class="center-block" id="barchart_material" style="width: 900px; height: 500px;"></div>
-      <div class="divider"></div>
   </div>
+  <div class="divider"></div>
   <div class="row" id="chart">
       <div class="col-md-6">
           <div id="scatterchart_material" style="height: 500px;"></div>
@@ -51,6 +51,7 @@
         <div id="line_top_x" style="height: 500px;"></div>
       </div>
   </div>
+  <div class="divider"></div>
   <div class="row" id="chart">
       <div class="col-md-6">
           <div id="scatterchart_material2" style="height: 500px;"></div>
